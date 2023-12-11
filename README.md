@@ -8,7 +8,7 @@ I'm HirotakaDango, and I'm passionate about php. This profile is a gateway to co
 
 ## Profile Preview
 
-![Profile Preview]([https://path-to-your-image.jpg](https://pbs.twimg.com/profile_images/1473795618141192192/YgVfO4cO_400x400.jpg))
+![Profile Preview](https://pbs.twimg.com/profile_images/1473795618141192192/YgVfO4cO_400x400.jpg)
 
 ## Social Media Links
 
